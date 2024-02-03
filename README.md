@@ -6,3 +6,6 @@ Still some errors occuring when training related to the force of the aircraft wh
 Currently I'm trying to fix those issues so I can have a full training without any errors.
 All the assets I've used are free on the unity assets store.
 ![bomber1](https://github.com/smr1897/airplane_agent_learns_bomb_on_target/assets/104346441/8557717d-35c4-4895-8745-3434c451e45f)
+
+on the misssile an additional force is applied towards forward direction in each frame
+![setup](https://github.com/smr1897/airplane_agent_learns_bomb_on_target/assets/104346441/edc9ea94-b8aa-45fc-ab4c-38662e258d04)
